@@ -1,5 +1,5 @@
 summary: Render markdown on the CLI
 webpage: https://github.com/charmbracelet/glow
 version: 1.4.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos10.15-x86_64/releases/download/2023.04.07/glow-1.4.1-macos10.15-x86_64.tar.xz
-bin-sha: e9fb4793f33b3b5aa4c1695e36ab20388c512c223a8d305b0e5fb32ce0415432
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos11.0-arm64/releases/download/2023.04.06/glow-1.4.1-macos11.0-arm64.tar.xz
+bin-sha: e6d648e6150322afba56e5dd29e778846b68481ded782628f821b7b6454d775d
