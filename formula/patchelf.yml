@@ -1,5 +1,5 @@
-summary: Utility for modifying existing ELF executables and libraries
-webpage: 
-version: 0.15.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos12.0-arm64/releases/download/2023.04.06/patchelf-0.15.0-macos12.0-arm64.tar.xz
-bin-sha: c5004d47e3180742e6e34c360b1ac8393e237175c5d05d0a5dc28dfe4e8cb990
+summary: A small utility to modify ELF files
+webpage: https://github.com/NixOS/patchelf
+version: 0.18.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/patchelf-0.18.0-macos-12.0-arm64.tar.xz
+bin-sha: 9bad952b7b5442a77dbea8949d06c259831763864304f92d5818a48532be1bdd

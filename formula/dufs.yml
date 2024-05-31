@@ -1,0 +1,5 @@
+summary: A file server that supports static serving, uploading, searching, accessing control, webdav..
+webpage: https://github.com/sigoden/dufs
+version: 0.41.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/dufs-0.41.0-macos-12.0-arm64.tar.xz
+bin-sha: f36a0056929101c42bfdfa8cf0f6882e6697fbeea83a75c8c352aa9793ad771e

@@ -1,0 +1,5 @@
+summary: Versatile and fast Unicode/ASCII/ANSI graphics renderer
+webpage: https://hpjansson.org/chafa/
+version: 1.14.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/chafa-1.14.0-macos-12.0-arm64.tar.xz
+bin-sha: 419c3a596ab7e81538ec5dee6597c4396b5a3f3dab6df26f9a99038f17561fd6

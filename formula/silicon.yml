@@ -1,0 +1,5 @@
+summary: A command-line tool to render your source code into a beautiful image
+webpage: https://github.com/Aloxaf/silicon
+version: 0.5.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/silicon-0.5.2-macos-12.0-arm64.tar.xz
+bin-sha: c058047c1a2dbcfcc8de8d73d90db70af9f46de26f58d1b1c133d16ee7980640

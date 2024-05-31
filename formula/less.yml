@@ -1,0 +1,5 @@
+summary: Pager program similar to more
+webpage: http://www.greenwoodsoftware.com/less/index.html
+version: 633
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/less-633-macos-12.0-arm64.tar.xz
+bin-sha: 2809d3ecb7e576a58e4a2b92e0749215cf61142760febca53de80e9fa896c208

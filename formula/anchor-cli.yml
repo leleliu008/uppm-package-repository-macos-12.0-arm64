@@ -1,0 +1,5 @@
+summary: Anchor developer tools
+webpage: https://github.com/coral-xyz/anchor
+version: 0.25.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/anchor-cli-0.25.0-macos-12.0-arm64.tar.xz
+bin-sha: b999e041af77afa59acc6b9451b3a5218f421499535ca143b7e86360eec92a2f

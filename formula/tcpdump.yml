@@ -1,5 +1,5 @@
-summary: a command-line tool to analyze packet(TCP/IP)
+summary: A command-line tool to analyze packet(TCP/IP)
 webpage: https://www.tcpdump.org/
-version: 4.99.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos12.0-arm64/releases/download/2023.04.06/tcpdump-4.99.1-macos12.0-arm64.tar.xz
-bin-sha: 7a84a1a2d3cebc2afb63cbcc29222fa4d22dd3ba15bbd391be801b1fc03addc9
+version: 4.99.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/tcpdump-4.99.4-macos-12.0-arm64.tar.xz
+bin-sha: c39c247b7f458d8cd741341fcf4f1ed3aaafbd06b6997a6e24eab638b5aa5122

@@ -1,0 +1,5 @@
+summary: A light and powerful web framework for C++
+webpage: https://oatpp.io/
+version: 1.3.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/oat++-1.3.0-macos-12.0-arm64.tar.xz
+bin-sha: 2f380f51e8a15b21661190fda58125c377ae96f1315bac34acaa497e63024d7b

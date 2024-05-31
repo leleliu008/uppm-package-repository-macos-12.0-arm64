@@ -1,0 +1,5 @@
+summary: An open-source C/C++ library for formatting that provides a fast and safe alternative to C stdio and C++ iostreams
+webpage: https://fmt.dev
+version: 10.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/fmt-10.2.1-macos-12.0-arm64.tar.xz
+bin-sha: 3c9ad5587dcdd9a2fa3aa9be085921128754256d8b143a40694a4a72078598a4

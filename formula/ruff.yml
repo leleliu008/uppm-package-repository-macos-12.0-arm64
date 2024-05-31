@@ -1,0 +1,5 @@
+summary: An extremely fast Python linter, written in Rust
+webpage: https://beta.ruff.rs/
+version: 0.4.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/ruff-0.4.4-macos-12.0-arm64.tar.xz
+bin-sha: f45ed6d30317cf4b3aadbac19e0109b1789b4e6057c9ec4c9d19c105bd2a20b9

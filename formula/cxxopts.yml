@@ -1,0 +1,5 @@
+summary: A lightweight C++ command-line option parser
+webpage: https://github.com/jarro2783/cxxopts
+version: 3.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/cxxopts-3.2.1-macos-12.0-arm64.tar.xz
+bin-sha: 47e22933bbdc3e3efa91550827f925cd2bc7e30a6c04656b465606d564c6486e

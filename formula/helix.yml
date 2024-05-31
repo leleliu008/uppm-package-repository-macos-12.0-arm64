@@ -1,0 +1,5 @@
+summary: A post-modern modal text editor
+webpage: https://helix-editor.com/
+version: 24.03
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/helix-24.03-macos-12.0-arm64.tar.xz
+bin-sha: 5dae032739554f4fa9ed08007c1b172fd94df529eaa1f1b307b8d5b26f61a961

@@ -1,0 +1,5 @@
+summary: JSON for modern C++
+webpage: https://github.com/nlohmann/json
+version: 3.11.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/nlohmann-json-3.11.3-macos-12.0-arm64.tar.xz
+bin-sha: 53c68029c19494b481bb5b18f96ed0f55e663d436a6a40dd2dc56b2566481e41

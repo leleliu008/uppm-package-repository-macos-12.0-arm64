@@ -1,0 +1,5 @@
+summary: A simple command-line tool for sharing terminal over the web
+webpage: https://tsl0922.github.io/ttyd
+version: 1.7.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/ttyd-1.7.7-macos-12.0-arm64.tar.xz
+bin-sha: 6fd37cf0da4de78c87723e299160b9c09baf4908301df0c43718759e6a71768c

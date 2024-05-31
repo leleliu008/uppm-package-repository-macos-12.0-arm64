@@ -1,0 +1,5 @@
+summary: GNU binary tools for native development
+webpage: https://www.gnu.org/software/binutils/binutils.html
+version: 2.40
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/binutils-2.40-macos-12.0-arm64.tar.xz
+bin-sha: 6b76054ddbc84159074e0ea25b4756cc5c0e3193e401a3403e071ad559e9e7ff

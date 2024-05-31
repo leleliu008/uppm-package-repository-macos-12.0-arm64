@@ -1,0 +1,5 @@
+summary: A command-line DNS client for humans
+webpage: https://doggo.mrkaran.dev/
+version: 0.5.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/doggo-0.5.7-macos-12.0-arm64.tar.xz
+bin-sha: ac4706df1e1bb1cc2e766b48d97f407cd1a3b4094987e6585d25986e8808b75c

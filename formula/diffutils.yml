@@ -1,5 +1,5 @@
-summary: File comparison utilities
+summary: A package of several programs related to finding differences between files
 webpage: https://www.gnu.org/software/diffutils
-version: 3.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos12.0-arm64/releases/download/2023.04.06/diffutils-3.8-macos12.0-arm64.tar.xz
-bin-sha: fd178a342571af4a67583ce5e222835e80b2c4023dfa2ca238b63e075f0fad19
+version: 3.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/diffutils-3.10-macos-12.0-arm64.tar.xz
+bin-sha: e58d5a757265b53e102e38f909c5fa07b725e856f438f56d8e2a0a1ebdf566db

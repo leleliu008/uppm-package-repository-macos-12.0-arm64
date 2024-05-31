@@ -1,5 +1,5 @@
 summary: Macro processing language
 webpage: https://www.gnu.org/software/m4
 version: 1.4.19
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos12.0-arm64/releases/download/2023.04.06/gm4-1.4.19-macos12.0-arm64.tar.xz
-bin-sha: 78846651a5a2fdb4610012bac1ce80c6feb82cd6325bdf99c3589fb1b4840a89
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/gm4-1.4.19-macos-12.0-arm64.tar.xz
+bin-sha: 37373931fa38ba43a189b8b31d8dc007a9d00b3c7a14d8d296a612c99b4ce2f8

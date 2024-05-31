@@ -1,0 +1,5 @@
+summary: Modern Linker
+webpage: https://github.com/rui314/mold
+version: 2.31.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/mold-2.31.0-macos-12.0-arm64.tar.xz
+bin-sha: 80eaef92d1867c83e77c731decc27a055a401e0805221163df21e4baf6632bf2

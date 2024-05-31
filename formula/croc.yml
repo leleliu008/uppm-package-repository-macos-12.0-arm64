@@ -1,0 +1,5 @@
+summary: A command-line tool that allows you to easily and securely send files from one computer to another
+webpage: https://github.com/schollz/croc
+version: 10.0.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/croc-10.0.6-macos-12.0-arm64.tar.xz
+bin-sha: 54112a5566b232c884605324e4ac558fcbcbbe599937bb0affc22197ef887088

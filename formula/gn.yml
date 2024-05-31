@@ -1,5 +1,5 @@
-summary: a meta-build system that generates build files for ninja
-webpage: 
-version: 2023.04.06
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos12.0-arm64/releases/download/2023.04.06/gn-2023.04.06-macos12.0-arm64.tar.xz
-bin-sha: 8d33ed99e38add82082510eab9657e32ae0c2217ea82e7e3850314833bcf0a32
+summary: A meta-build system for generating build files for ninja
+webpage: https://gn.googlesource.com/gn
+version: 2024.05.30
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/gn-2024.05.30-macos-12.0-arm64.tar.xz
+bin-sha: b70d1104b2a6619290ae1f8d2682955c6c712e90df78802123d1f0bbd1b8ae3a
