@@ -1,5 +1,5 @@
 summary: TOTP/HOTP authenticator app with import functionality
 webpage: https://github.com/replydev/cotp
 version: 1.7.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/cotp-1.7.0-macos-12.0-arm64.tar.xz
-bin-sha: 8571406e9e45a7fc8f3b7a87639b68242f2c5f23bcb25e4845f56ed6edeb890d
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/cotp-1.7.0-macos-12.0-arm64.tar.xz
+bin-sha: de94a3996e63dd88483b60cb6b0415dd36443476ce30f2232eccbe1f90f0081c

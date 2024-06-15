@@ -1,5 +1,5 @@
 summary: A small build system with a focus on speed
 webpage: https://ninja-build.org
 version: 1.12.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/ninja-1.12.1-macos-12.0-arm64.tar.xz
-bin-sha: 999f856390f8709d8e1c934b0b888a2a54d5fec6518d866c04c702f7d4d115f6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/ninja-1.12.1-macos-12.0-arm64.tar.xz
+bin-sha: 987a88ebca0022910ad0ed0970cd06c607f695909b98af2f68f683963c5dbf28

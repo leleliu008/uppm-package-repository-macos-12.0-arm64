@@ -1,5 +1,5 @@
 summary: Parse HTML at the command-line
 webpage: https://github.com/EricChiang/pup
-version: 2024.05.31
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/pup-2024.05.31-macos-12.0-arm64.tar.xz
-bin-sha: 420c79995ddfec05877f92cae7725208ac1e2d451697ee8a6e87e7ce830ddc3b
+version: 2024.06.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/pup-2024.06.15-macos-12.0-arm64.tar.xz
+bin-sha: ab2ed9de461d91cb96da54e9e0a8b53da721c18423e969bdf946679c50572534

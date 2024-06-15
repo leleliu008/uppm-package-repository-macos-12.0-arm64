@@ -1,5 +1,5 @@
 summary: Lookup tool for domain names and other internet resources
 webpage: https://github.com/rfc1036/whois
 version: 5.5.23
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/whois-5.5.23-macos-12.0-arm64.tar.xz
-bin-sha: 0a6f11a8f7bbb214986807109c5fdc0d9aabe8c19c835d342a6fa59ab7714bb4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/whois-5.5.23-macos-12.0-arm64.tar.xz
+bin-sha: 65e5817c685dd3ed8bf7d4c77417cd5cd8ab53c8fd30a78f3c8a4f5106501737

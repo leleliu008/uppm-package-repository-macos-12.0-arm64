@@ -1,5 +1,5 @@
 summary: GNU netcat is a GNU rewrite of the classic netcat (aka nc) utility for reading and writing data on TCP and UDP streams
 webpage: https://netcat.sourceforge.net/
 version: 0.7.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/netcat-0.7.1-macos-12.0-arm64.tar.xz
-bin-sha: e3e95bbb0cafd4a74e7f0d71a5d6139cddd2c789d64239fd2103cf22a212cb9b
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/netcat-0.7.1-macos-12.0-arm64.tar.xz
+bin-sha: 66085ac4b4158e56ced35f07282c5892948f071ec189f7ee7e8b03a681f0e7ab

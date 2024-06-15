@@ -1,5 +1,5 @@
 summary: Classic UNIX line editor
 webpage: https://www.gnu.org/software/ed/ed.html
 version: 1.20.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/ed-1.20.2-macos-12.0-arm64.tar.xz
-bin-sha: 637ae068b99975061d68bc6423f93de265b01827d7e0c6b35bdc31acd98cb8d2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/ed-1.20.2-macos-12.0-arm64.tar.xz
+bin-sha: 387ef0d603cdcd1f70e946a785a80a02fd2bb21a9d72f1ce5cec5470153630c8

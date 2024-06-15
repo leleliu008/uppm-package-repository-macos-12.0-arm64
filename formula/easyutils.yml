@@ -1,5 +1,5 @@
 summary: A collections of easy to use command-line utilities
 webpage: https://github.com/leleliu008/C-examples
-version: 2024.05.30
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/easyutils-2024.05.30-macos-12.0-arm64.tar.xz
-bin-sha: 65ca96c49715dde73c6b6a6189e0ece9c82bd4027f223fd64f8f8f1dcedd8984
+version: 2024.06.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/easyutils-2024.06.15-macos-12.0-arm64.tar.xz
+bin-sha: d1deb25d58e3deed5b83b7033168f6b800aa38e5ad806a3b70fdc375138e7b5f

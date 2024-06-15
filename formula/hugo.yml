@@ -1,5 +1,5 @@
 summary: A fast and flexible static site generator
 webpage: https://gohugo.io
-version: 0.126.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/hugo-0.126.1-macos-12.0-arm64.tar.xz
-bin-sha: 778f6b76f849b1510614bf1dafb4bb0e3773b03b56491c529575508eddb2001d
+version: 0.127.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/hugo-0.127.0-macos-12.0-arm64.tar.xz
+bin-sha: 8faadc04e8e229da8e960930e8ed225a1702973dbe082c658bbfdbf2482a60eb

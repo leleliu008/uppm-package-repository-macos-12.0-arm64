@@ -1,5 +1,5 @@
 summary: OpenGL and OpenGL ES reference compiler for shading languages
 webpage: https://www.khronos.org/opengles/sdk/tools/Reference-Compiler/
 version: 14.2.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/glslang-14.2.0-macos-12.0-arm64.tar.xz
-bin-sha: 8b4abc3af97cc337842b080eb90c9fb4b89c71fc356828929b5ea3d7441afed4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/glslang-14.2.0-macos-12.0-arm64.tar.xz
+bin-sha: b3c4bea6ef374357331a70900b19d5e29e68cc9479f8e9c0278a7110e51b42b5

@@ -1,5 +1,5 @@
 summary: X.Org Library for the X Input Extension
 webpage: https://www.x.org/
 version: 1.8.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/xorg-libxi-1.8.1-macos-12.0-arm64.tar.xz
-bin-sha: 94588610b65089961a33deb31420d7964a8a4e03b505d6b6a634a396340af4d8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/xorg-libxi-1.8.1-macos-12.0-arm64.tar.xz
+bin-sha: 53507893df21789084226e357e4db459e41cf6b1be738123bf507fc103d8576c

@@ -1,5 +1,5 @@
 summary: The minimal, blazing-fast, and infinitely customizable prompt for any shell
 webpage: https://starship.rs
 version: 1.19.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/starship-1.19.0-macos-12.0-arm64.tar.xz
-bin-sha: 4826f94987919c1201175a0b7a7bddfc8d8893c1e21bbc06f09bf4954962676b
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/starship-1.19.0-macos-12.0-arm64.tar.xz
+bin-sha: 70b1d0ccef0d8a5fa913f0a0030fb32c0b0bc34dda5f4e769253be4dbd17c94f

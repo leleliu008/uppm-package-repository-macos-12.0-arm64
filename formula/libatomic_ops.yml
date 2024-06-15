@@ -1,5 +1,5 @@
 summary: Implementations for atomic memory update operations
 webpage: https://github.com/ivmai/libatomic_ops
 version: 7.8.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/libatomic_ops-7.8.2-macos-12.0-arm64.tar.xz
-bin-sha: 93932eb19ef9545a4c5418145b7648d7e1da30b270f4ecc7ce01523c885d898e
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/libatomic_ops-7.8.2-macos-12.0-arm64.tar.xz
+bin-sha: f1e8d12566dc0e9f53d99ce065c27ed07f009287971a7d806561d0ab5c723c7d

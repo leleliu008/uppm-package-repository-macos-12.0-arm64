@@ -1,5 +1,5 @@
 summary: A flexible, lightweight pure C library for implementing modern network protocols easily with a tiny footprint, using a nonblocking event loop
 webpage: https://libwebsockets.org
 version: 4.3.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/libwebsockets-4.3.3-macos-12.0-arm64.tar.xz
-bin-sha: e6983f1445b9f7f86e9bfa3bea2bd3da126295bac0ed3b1b2bcfcf600742571f
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/libwebsockets-4.3.3-macos-12.0-arm64.tar.xz
+bin-sha: 356a348f8a57c2bc30384b5c8dd9f055463416d5c30d127d11d4796495d1b78f

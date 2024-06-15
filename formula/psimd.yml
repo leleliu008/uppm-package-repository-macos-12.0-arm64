@@ -1,0 +1,5 @@
+summary: Portable 128-bit SIMD intrinsics
+webpage: https://github.com/Maratyszcza/psimd
+version: 2024.06.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/psimd-2024.06.15-macos-12.0-arm64.tar.xz
+bin-sha: 3438a4aa1d8952db0443612a22d015678af5cca80184fc3bf7b055b5eace02e4

@@ -1,0 +1,5 @@
+summary: Powerful, clean, object-oriented scripting language
+webpage: https://www.ruby-lang.org/
+version: 3.2.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/ruby-3.2.2-macos-12.0-arm64.tar.xz
+bin-sha: 0607e60947dfc5f6deb58bdc6a7247e415fddfd49f715accf02a86eb42f0b64d

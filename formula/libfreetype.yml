@@ -1,5 +1,5 @@
 summary: A C library to render fonts
 webpage: https://freetype.org/
 version: 2.13.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/libfreetype-2.13.2-macos-12.0-arm64.tar.xz
-bin-sha: 5dbae4ff96ea36deddafdc0a0fee4154563326fb4d80377c1070e79c8b8bbd96
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/libfreetype-2.13.2-macos-12.0-arm64.tar.xz
+bin-sha: da592d738b518d109f04e8556b130c5a303af6797b5282519f09a6a6dcd89355

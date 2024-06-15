@@ -1,5 +1,5 @@
 summary: Manage compile and link flags for libraries
 webpage: https://freedesktop.org/wiki/Software/pkg-config
 version: 0.29.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/pkg-config-0.29.2-macos-12.0-arm64.tar.xz
-bin-sha: 9dff1c3cf125033994c5a3730e399b8946a93390c86a52e792eb5fea3d3a72b8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/pkg-config-0.29.2-macos-12.0-arm64.tar.xz
+bin-sha: e67f137e38063184454c8afedec04fd79ce71481588dacbf7ed8d27de2ff10e5

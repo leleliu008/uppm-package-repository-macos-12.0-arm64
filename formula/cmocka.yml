@@ -1,5 +1,5 @@
 summary: An elegant unit testing framework for C with support for mock objects
 webpage: https://cmocka.org/
 version: 1.1.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/cmocka-1.1.7-macos-12.0-arm64.tar.xz
-bin-sha: 0d42c2fe7016347c149b48b39312daa236cebf997a175fd4a5085d57b0d86890
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/cmocka-1.1.7-macos-12.0-arm64.tar.xz
+bin-sha: af8934cc4634fd5010cda3ca7c208d3a12816517415273374f5cf67eeab3eb3e

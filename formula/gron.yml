@@ -1,5 +1,5 @@
 summary: Make JSON greppable
 webpage: https://github.com/tomnomnom/gron
 version: 0.7.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/gron-0.7.1-macos-12.0-arm64.tar.xz
-bin-sha: 8273bea170ae4889538a725e228621a976495e9775b06a38cf0160e86b2c4088
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/gron-0.7.1-macos-12.0-arm64.tar.xz
+bin-sha: 5453eb0504a6feba9c6a05b90cc4fe1912114f35def0db2f1cacb94032ec6c44

@@ -1,0 +1,5 @@
+summary: Adds spatial SQL capabilities to SQLite
+webpage: https://www.gaia-gis.it/fossil/libspatialite/index
+version: 5.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/libspatialite-5.1.0-macos-12.0-arm64.tar.xz
+bin-sha: 6eebe2112b18847dc941416b5ee3425678c7e5bb8e1464849316ef006efc02a7

@@ -1,0 +1,5 @@
+summary: Small library for rendering Postscript documents
+webpage: https://wiki.freedesktop.org/www/Software/libspectre/
+version: 0.2.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/libspectre-0.2.12-macos-12.0-arm64.tar.xz
+bin-sha: 15cec7d8a2a324d560101a28923fbfd816e712b8c76a3fa797a1883c81be2027

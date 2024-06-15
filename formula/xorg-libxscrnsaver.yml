@@ -1,5 +1,5 @@
 summary: X.Org X11 Screen Saver extension client library
 webpage: https://www.x.org/
 version: 1.2.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/xorg-libxscrnsaver-1.2.4-macos-12.0-arm64.tar.xz
-bin-sha: 0edd38d881b4cc9d72b18f77b4bc576c9e9b5f737e2cd2ae92eb44b8a3dbc09f
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/xorg-libxscrnsaver-1.2.4-macos-12.0-arm64.tar.xz
+bin-sha: 075b7ba7da49bd1784aa6b931bbfd00af28a637517744a55d22377f5b1ec50f3

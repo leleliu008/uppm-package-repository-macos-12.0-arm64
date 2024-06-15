@@ -1,5 +1,5 @@
 summary: GNU multiple precision arithmetic library
 webpage: https://gmplib.org/
 version: 6.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/libgmp-6.3.0-macos-12.0-arm64.tar.xz
-bin-sha: cdc8915c35232f0dda08a74471e47e9546b123d51e6e708d5dd511b4312208a3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/libgmp-6.3.0-macos-12.0-arm64.tar.xz
+bin-sha: 046a17925836cc6c29ba08f1328fe61f7be2240742ae54075cfb577f685016d9

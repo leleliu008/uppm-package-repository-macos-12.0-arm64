@@ -1,5 +1,5 @@
 summary: GNU implementation of the famous stream editor
 webpage: https://www.gnu.org/software/sed
 version: 4.9
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/gsed-4.9-macos-12.0-arm64.tar.xz
-bin-sha: 9f00d89b7b9d193ba6dbd18d7866709ec1b59eb202f4963c50b8c5d54558c5f0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/gsed-4.9-macos-12.0-arm64.tar.xz
+bin-sha: af1f1af0bb7436d19c4cd28f64fa2a062628b9fcfd39021e0bd25105472b79c1

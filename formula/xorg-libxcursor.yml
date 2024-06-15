@@ -1,5 +1,5 @@
 summary: X.Org X Window System Cursor management library
 webpage: https://www.x.org/
 version: 1.2.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/xorg-libxcursor-1.2.1-macos-12.0-arm64.tar.xz
-bin-sha: 49da2ecf5dc9d98a6a38f934f9b2e579551520d8a5707fa2c580f2708b7e2c83
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/xorg-libxcursor-1.2.1-macos-12.0-arm64.tar.xz
+bin-sha: 9d3b7cc9f51672c026065172be6a2ed900be96cabc462e22b1ad672dcce1afc7

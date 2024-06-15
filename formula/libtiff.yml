@@ -1,5 +1,5 @@
 summary: TIFF library
 webpage: https://libtiff.gitlab.io/libtiff
 version: 4.6.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/libtiff-4.6.0-macos-12.0-arm64.tar.xz
-bin-sha: a9a5a5d2f8b208aac280da28cdff80567366d7847684b7c03b5c7b736397dc78
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/libtiff-4.6.0-macos-12.0-arm64.tar.xz
+bin-sha: 3465778089bd810eafc275ea32134775021f33264d983468ba6cba4565d0ca63

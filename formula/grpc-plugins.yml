@@ -1,5 +1,5 @@
 summary: grpc plugins
 webpage: https://grpc.io
 version: 1.64.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/grpc-plugins-1.64.0-macos-12.0-arm64.tar.xz
-bin-sha: 2f720d76ddec9ad8e1281166a1c29ec36a84931cb58e1afc3deede21048821cf
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/grpc-plugins-1.64.0-macos-12.0-arm64.tar.xz
+bin-sha: 11c84dc96540a272dd2b354b3646e0ef7adc887967106dcad45655a59fcd3ca3

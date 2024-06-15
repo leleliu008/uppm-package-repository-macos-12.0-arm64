@@ -1,5 +1,5 @@
 summary: Coreutils progress viewer
 webpage: https://github.com/Xfennec/progress
 version: 0.17
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/progress-0.17-macos-12.0-arm64.tar.xz
-bin-sha: 3bbb47d9a0911cfd90ee27d3b02e12ea84e2dac3b4c6eb4dd7e0f252bdf8235d
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/progress-0.17-macos-12.0-arm64.tar.xz
+bin-sha: 6b92ad6d0fe809a847f909e39a47f9352d1a97d83660d412d9eb6864756b2a8f

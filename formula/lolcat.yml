@@ -1,5 +1,5 @@
 summary: Rainbows and unicorns in your console
 webpage: https://github.com/jaseg/lolcat
 version: 1.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/lolcat-1.4-macos-12.0-arm64.tar.xz
-bin-sha: a08c17a27d9607c73772fd0810191e2a8eef16a5c7b50855092f963731edd712
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/lolcat-1.4-macos-12.0-arm64.tar.xz
+bin-sha: 1bb57e09fc470f2c465d85dd18b28f54fe509df9efd11fce9d7494c6aa785ede

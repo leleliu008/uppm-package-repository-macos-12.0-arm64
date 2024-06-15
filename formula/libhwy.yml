@@ -1,5 +1,5 @@
 summary: Performance-portable, length-agnostic SIMD with runtime dispatch
 webpage: https://github.com/google/highway
 version: 1.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/libhwy-1.1.0-macos-12.0-arm64.tar.xz
-bin-sha: 77d0398df9a376682efe4824ee0ec5e856af895b82aaba049d265679b0c5429d
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/libhwy-1.1.0-macos-12.0-arm64.tar.xz
+bin-sha: 03d43fedc7a4ed245cd08f0f76936d9dffcc448f8b00867838cd10b5168e008b

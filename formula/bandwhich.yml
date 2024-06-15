@@ -1,5 +1,5 @@
 summary: Terminal bandwidth utilization tool
 webpage: https://github.com/imsnif/bandwhich
 version: 0.22.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/bandwhich-0.22.2-macos-12.0-arm64.tar.xz
-bin-sha: 8f83a929370277c037ab9d7bf88f48af5c7795ba2a5c5194222f8e22e3929d0c
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/bandwhich-0.22.2-macos-12.0-arm64.tar.xz
+bin-sha: 46faa736c92b581992e6f85ad78d325fd34f576a23065c0d4195c522559e68a5

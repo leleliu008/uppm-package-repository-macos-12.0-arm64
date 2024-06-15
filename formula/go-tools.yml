@@ -1,5 +1,5 @@
 summary: A state-of-the-art linter for the Go programming language
 webpage: https://github.com/dominikh/go-tools
 version: 2023.1.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/go-tools-2023.1.3-macos-12.0-arm64.tar.xz
-bin-sha: b8faa8865b2b29b52c4da3ebc290ba929730623b22bc057f815749a5320c5594
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/go-tools-2023.1.3-macos-12.0-arm64.tar.xz
+bin-sha: 6ab7a7bc874e79f094716fcaf64f2f4872901bb232fc55722b3d96bf7df3200f

@@ -1,5 +1,5 @@
 summary: Watch a file or folder and automatically commit changes to a git repo easily
 webpage: https://github.com/gitwatch/gitwatch
 version: 0.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/gitwatch-0.2-macos-12.0-arm64.tar.xz
-bin-sha: 2fc260dc926a1caa598a606f0c0310e68f51562403083cd7f88b43fc323bdd76
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/gitwatch-0.2-macos-12.0-arm64.tar.xz
+bin-sha: cfc02fb05633e0e1c10ea7a753938b22789c6c5c292d82f87b467b3815bf5942

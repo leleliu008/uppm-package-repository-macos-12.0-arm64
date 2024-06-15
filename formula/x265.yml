@@ -1,5 +1,5 @@
 summary: An open-source H.265/HEVC encoder
 webpage: http://x265.org
 version: 3.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/x265-3.6-macos-12.0-arm64.tar.xz
-bin-sha: c31f2bb0f096550aabead9dfb812257b49a6b9d553dcd065b14af0beacfa3ba7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/x265-3.6-macos-12.0-arm64.tar.xz
+bin-sha: 04eed1f4a921ae73aedb872c29fa067b5f4831f74ffd336e058722c73548801d

@@ -1,5 +1,5 @@
 summary: A fast, async, resource-friendly link checker
 webpage: https://github.com/lycheeverse/lychee
-version: 0.14.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/lychee-0.14.3-macos-12.0-arm64.tar.xz
-bin-sha: 73440087f17716b864c9b4c5b1e7ddb2e53c5a1fc6059419cda047ef8911b178
+version: 0.15.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/lychee-0.15.1-macos-12.0-arm64.tar.xz
+bin-sha: f2e4673a80718b72eb4c0d0034f2b6b28a19a9e08457d7dcacc97871e441048d

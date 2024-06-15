@@ -1,5 +1,5 @@
 summary: Cross-platform make
 webpage: https://www.cmake.org/
 version: 3.29.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.05.31/cmake-3.29.3-macos-12.0-arm64.tar.xz
-bin-sha: 8493c47259c86da9f0d2389881ca36022a529520ae11ed87ccf542d2fe660124
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-12.0-arm64/releases/download/2024.06.15/cmake-3.29.3-macos-12.0-arm64.tar.xz
+bin-sha: f65dfc168c9d0ed447efaf311365b3dd0fb863ea7d4f3ac76038a547984d6d92
